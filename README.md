@@ -10,15 +10,9 @@ A API of Awesome Dev Event developed with C# .NET (ASP.NET WEB API).
 ### How To Run
 - Clone the project in your local environment
   ```bash
-  git clone https://github.com/pestana-catumbela/PassIn
+  git clone https://github.com/pestana-catumbela/AwesomeDevEvent
   ```
-- Into project directory in your local environment run
-  ```bash
-  npm install
-  ```
-  ```bash
-  npm run dev
-  ```
+- Open the application in your Visual Studio and run
 
 ### Screen Swagger (Endpoints Documented)
 ![Screen Swagger Endpoint Documented](https://github.com/pestana-catumbela/AwesomeDevEvent/blob/main/Assets/AwesomeDevEvent-Endpoints.png)
